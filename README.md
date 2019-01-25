@@ -6,6 +6,6 @@ Welcome to the comments repository docs.citsmart.com! This is the place to send 
 Contacts about product support should be directed to one of our partners.
 
 ## Propose ideas
-Navigate to 
+Access the [Issues][1] option and click in New issue and send all relevant information.
 
-Access the [Issues] option and click in Open and send all relevant information.
+[1]:https://github.com/citsmartdocs/feedback/issues
