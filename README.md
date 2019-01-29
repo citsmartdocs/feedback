@@ -4,7 +4,7 @@ Welcome to the [CITSmart Docs][1] feedback repository! This is the place to send
 
 Contacts about product support should be directed to one of our partners.
 
-## Submitting Ideas
+## Submitting
 
 Access the [Issues][2] option and click in **New issue**, please send all relevant information.
 
