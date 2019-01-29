@@ -8,5 +8,8 @@ Contacts about product support should be directed to one of our partners.
 
 Access the [Issues][2] option and click in **New issue**, please send all relevant information.
 
+![New Issue][3]
+
 [1]:https://docs.citsmart.com
 [2]:https://github.com/citsmartdocs/feedback/issues
+[3]:images/new-issue.gif
