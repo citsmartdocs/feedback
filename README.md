@@ -1,6 +1,6 @@
 # Feedback
 
-Welcome to the [CITSmart Docs][1] feedback repository! This is the place to send comments, suggestions or ideas that can help us to have the best documentation for our products.
+Welcome to the [CITSmart Docs][1] feedback repository! This is the place to send comments, suggestions or ideas that can help us to have the best documentation of CITSmart products.
 
 Contacts about product support should be directed to one of our [partners][2].
 
